@@ -3,7 +3,7 @@
 **SQLPilot** is an AI-powered interface that lets you interact with databases using natural language. It supports both querying backend databases like MySQL and playing with custom tables using an intuitive SQLite Playground.
 
 ---
-![Project Structure](assets/WhatsApp Image 2025-07-22 at 16.48.11 (1).jpeg)
+![Project Structure](assets/dasboard.jpeg)
 
 ## ✨ Features
 
